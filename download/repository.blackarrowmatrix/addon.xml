@@ -9,7 +9,7 @@
 		<dir minversion="18.9.1">
 			<info compressed="false">https://raw.githubusercontent.com/blackarrowmatrix/blackarrowmatrix.github.io/main/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/blackarrowmatrix/blackarrowmatrix.github.io/main/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/blackarrowmatrix/blacarrowmatrix.github.io/main</datadir>
+			<datadir zip="true">https://github.com/blackarrowmatrix/blackarrowmatrix.github.io/main</datadir>
 			
 		</dir>
 
@@ -18,7 +18,7 @@
 		<summary>repositorio BlackArrowMatrix</summary>
 		<description>repositorio oficial BlackArrowMatrix - Proibido reproducao sem previa autorizacao</description>
 		<platform>all</platform>
-		<source>https://raw.github.com/blackarrowmatrix/blackarrowmatrix.github.io/main</source>
+		<source>https://github.com/blackarrowmatrix/blackarrowmatrix.github.io</source>
 		<assets>
             <icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
