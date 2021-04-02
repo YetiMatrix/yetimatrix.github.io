@@ -60,10 +60,10 @@ SPACER = '='
 
 # You can edit these however you want, just make sure that you have a %s in each of the
 # THEME's so it grabs the text from the menu item
-COLOR1 = 'gold'
-COLOR2 = 'cyan'
+COLOR1 = 'red'
+COLOR2 = 'blue'
 # Primary menu items   / {0} is the menu item and is required
-THEME1 = u'[COLOR {color1}][I]([COLOR {color1}]FlechaNegra[/COLOR][COLOR {color2}]Matrix Wizard[COLOR {color1}]) [/I][/COLOR] [COLOR {color2}]{{}}[/COLOR]'.format(color1=COLOR1, color2=COLOR2)
+THEME1 = u'[COLOR {color1}][I]([COLOR {color1}]BlackArrowMatrix[/COLOR][COLOR {color2}] Wizard[COLOR {color1}]) [/I][/COLOR] [COLOR {color2}]{{}}[/COLOR]'.format(color1=COLOR1, color2=COLOR2)
 # Build Names          / {0} is the menu item and is required
 THEME2 = u'[COLOR {color1}]{{}}[/COLOR]'.format(color1=COLOR1)
 # Alternate items      / {0} is the menu item and is required
@@ -77,7 +77,7 @@ THEME5 = u'[COLOR {color1}]Current Theme: [/COLOR] [COLOR {color2}]{{}}[/COLOR]'
 # Enable 'Contact' menu item 'Yes' hide or 'No' dont hide
 HIDECONTACT = 'Yes'
 # You can add \n to do line breaks
-CONTACT = 'Obrigado por usar FlechaNegra Matrix Wizard.'
+CONTACT = 'Obrigado por usar BlackArrowMatrix Wizard.'
 # Images used for the contact window.  http:// for default icon and fanart
 CONTACTICON = 'https://'
 CONTACTFANART = 'https://_'
@@ -96,9 +96,9 @@ AUTOUPDATE = 'No'
 # Enable Auto Install 'Yes' or 'No'
 AUTOINSTALL = 'No'
 # Addon ID for the repository
-REPOID = 'repository.FlechaNegra.Matrix'
+REPOID = 'repository.blackarrowmatrix'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML = ''
+REPOADDONXML = 'https://raw.githubusercontent.com/blackarrowmatrix/blackarrowmatrix.github.io/main/addons.xml'
 # Url to folder zip is located in
 REPOZIPURL = 'https://'
 #########################################################
