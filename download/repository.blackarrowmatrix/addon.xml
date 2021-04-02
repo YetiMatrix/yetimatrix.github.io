@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.blackarrowmatrix" name="[COLOR red]Black[/COLOR][COLOR black]Arrow[/COLOR]Matrix [COLOR cyan]Repository[/COLOR]" version="1.9.0" provider-name="Flecha Negra">
+	<requires>
+        
+		<import addon="xbmc.addon" version="12.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.repository" name="[COLOR red]Black[/COLOR][COLOR black]Arrow[/COLOR]Matrix [COLOR cyan]Repository[/COLOR]">
+		   
+		<dir minversion="18.9.1">
+			<info compressed="false">https://raw.githubusercontent.com/blackarrowmatrix/main/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/blackarrowmatrix/main/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/blackarrowmatrix/main</datadir>
+			
+		</dir>
+
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>repositorio BlackArrowMatrix</summary>
+		<description>repositorio oficial BlackArrowMatrix - Proibido reproducao sem previa autorizacao</description>
+		<platform>all</platform>
+		<source>https://raw.github.com/blackarrowmatrix/main</source>
+		<assets>
+            <icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+        </assets>
+	</extension>	
+	
+</addon>
