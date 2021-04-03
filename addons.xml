@@ -28,6 +28,326 @@
     </extension>
 </addon>
 
+<addon id="plugin.video.IncoGnit.Matrix" name="[COLOR lime]IncoGnit[/COLOR]" version="1.0.0+matrix.1" provider-name="Flechanegra">
+<requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.simplejson"/>
+	<import addon="script.module.kodi-six" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+	<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+	<summary lang="en">[COLOR lime]IncoGnit[/COLOR][COLORorange]is an add-on from the K-PT Flechanegra family. ALL LINKS ARE AVAILABLE ON THE INTERNET![/COLOR]</summary>
+	<summary lang="pt">[COLOR lime]IncoGnit[/COLOR][COLORorange]Ã© um addon da familia K-PT Flechanegra.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/COLOR]</summary>
+	<description lang="en">[COLOR lime]IncoGnit[/COLOR][COLORorange]is an add-on from the K-PT Flechanegra family. ALL LINKS ARE AVAILABLE ON THE INTERNET![/COLOR]</description>
+	<description lang="pt">[COLOR lime]IncoGnit[/COLOR][COLORorange]Ã© um addon da familia K-PT Flechanegra.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/COLOR]</description>
+    <disclaimer lang="en">The author is in no way affiliated with Kodi, Team Kodi or the XBMC Foundation. This is a non-profit resource.</disclaimer>
+	<disclaimer lang="pt">O autor nÃ£o Ã© de forma alguma afiliado ao Kodi, Team Kodi ou a XBMC Foundation. Este Ã© um recurso sem fins lucrativos.</disclaimer>
+    <platform>all</platform>
+	<assets>
+       <icon>icon.png</icon>
+       <fanart>fanart.jpg</fanart>
+    </assets>
+	<news>
+v1.0.0.matrix.1
+- InauguraÃ§Ã£o Flechanegra em Python 3
+	</news>
+</extension>
+</addon>
+
+<addon id="plugin.video.K-PT.Matrix" name="[COLOR lime]K[/COLOR] - [COLOR red]Pt[/COLOR]" version="1.0.1+matrix.1" provider-name="Flechanegra">
+<requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.simplejson"/>
+	<import addon="script.module.kodi-six" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+	<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+	<summary lang="en">[COLORorange]Infinity[/COLOR][COLORorange]is an add-on from the K-PT Flechanegra family. ALL LINKS ARE AVAILABLE ON THE INTERNET![/COLOR]</summary>
+	<summary lang="pt">[COLORorange]Infinity[/COLOR] [COLORorange]Ã© um addon da familia K-PT Flechanegra.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/COLOR]</summary>
+	<description lang="en">[COLOR red]Flecha[/COLOR] [COLOR black]Negra[/COLOR] [COLORorange]is an add-on from the K-PT Flechanegra family. ALL LINKS ARE AVAILABLE ON THE INTERNET![/COLOR]</description>
+	<description lang="pt">[COLOR red]Flecha[/COLOR] [COLOR black]Negra[/COLOR] [COLORorange]Ã© um addon da familia K-PT Flechanegra.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/COLOR]</description>
+    <disclaimer lang="en">The author is in no way affiliated with Kodi, Team Kodi or the XBMC Foundation. This is a non-profit resource.</disclaimer>
+	<disclaimer lang="pt">O autor nÃ£o Ã© de forma alguma afiliado ao Kodi, Team Kodi ou a XBMC Foundation. Este Ã© um recurso sem fins lucrativos.</disclaimer>
+    <platform>all</platform>
+	<assets>
+       <icon>icon.png</icon>
+       <fanart>fanart.jpg</fanart>
+	   <screenshot>resources/screenshots/1.jpg</screenshot>
+       <screenshot>resources/screenshots/2.jpg</screenshot>
+       <screenshot>resources/screenshots/3.jpg</screenshot>
+	   </assets>
+	<news>
+v1.0.0.matrix.1
+- InauguraÃ§Ã£o Flechanegra em Python 3
+	</news>
+</extension>
+</addon>
+
+<addon id="plugin.video.blackarrow.esportes.Matrix" name="[COLOR yellow]blackarrow[/COLOR][COLOR lime]esportes[/COLOR]" version="1.0.2+matrix.1" provider-name="Flechanegra">
+<requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.simplejson"/>
+	<import addon="script.module.kodi-six" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+	<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+	<summary lang="en">[COLORorange]blackarrow.esportes[/COLOR][COLORorange]is an add-on from the K-PT Flechanegra family. ALL LINKS ARE AVAILABLE ON THE INTERNET![/COLOR]</summary>
+	<summary lang="pt">[COLORorange]blackarrow.esportes[/COLOR] [COLORorange]Ã© um addon da familia K-PT Flechanegra.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/COLOR]</summary>
+	<description lang="en">[COLOR red]Flecha[/COLOR] [COLOR black]Negra[/COLOR] [COLORorange]is an add-on from the K-PT Flechanegra family. ALL LINKS ARE AVAILABLE ON THE INTERNET![/COLOR]</description>
+	<description lang="pt">[COLOR red]Flecha[/COLOR] [COLOR black]Negra[/COLOR] [COLORorange]Ã© um addon da familia K-PT Flechanegra.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/COLOR]</description>
+    <disclaimer lang="en">The author is in no way affiliated with Kodi, Team Kodi or the XBMC Foundation. This is a non-profit resource.</disclaimer>
+	<disclaimer lang="pt">O autor nÃ£o Ã© de forma alguma afiliado ao Kodi, Team Kodi ou a XBMC Foundation. Este Ã© um recurso sem fins lucrativos.</disclaimer>
+    <platform>all</platform>
+	<assets>
+       <icon>icon.png</icon>
+       <fanart>fanart.jpg</fanart>
+    </assets>
+	<news>
+v1.0.0.matrix.1
+- InauguraÃ§Ã£o Flechanegra em Python 3
+	</news>
+</extension>
+</addon>
+
+<addon id="plugin.video.blackarrow.torrent.Matrix" name="[COLOR red]Blackarrow[/COLOR] [COLORblack]Torrent[/COLOR]" version="1.0.0+matrix.1" provider-name="Flechanegra">
+<requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.simplejson"/>
+	<import addon="script.module.kodi-six" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+	<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+	<summary lang="en">[COLOR red]Blackarrow[/COLOR] [COLORblack]Torrent[/COLOR] [COLORorange]is an add-on from the K-PT Flechanegra family. ALL LINKS ARE AVAILABLE ON THE INTERNET![/COLOR]</summary>
+	<summary lang="pt">[COLOR red]Blackarrow[/COLOR] [COLORblack]Torrent[/COLOR] [COLORorange]Ã© um addon da familia K-PT Flechanegra.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/COLOR]</summary>
+	<description lang="en">[COLOR red]Blackarrow[/COLOR] [COLORblack]Torrent[/COLOR] [COLORorange]is an add-on from the K-PT Flechanegra family. ALL LINKS ARE AVAILABLE ON THE INTERNET![/COLOR]</description>
+	<description lang="pt">[COLOR red]Blackarrow[/COLOR] [COLORblack]Torrent[/COLOR] [COLORorange]Ã© um addon da familia K-PT Flechanegra.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/COLOR]</description>
+    <disclaimer lang="en">The author is in no way affiliated with Kodi, Team Kodi or the XBMC Foundation. This is a non-profit resource.</disclaimer>
+	<disclaimer lang="pt">O autor nÃ£o Ã© de forma alguma afiliado ao Kodi, Team Kodi ou a XBMC Foundation. Este Ã© um recurso sem fins lucrativos.</disclaimer>
+    <platform>all</platform>
+	<assets>
+       <icon>icon.png</icon>
+       <fanart>fanart.jpg</fanart>
+	   <screenshot>resources/screenshots/1.png</screenshot>
+       <screenshot>resources/screenshots/2.png</screenshot>
+       <screenshot>resources/screenshots/3.png</screenshot>
+    </assets>
+	<news>
+v1.0.0.matrix.1
+- InauguraÃ§Ã£o Flechanegra em Python 3
+	</news>
+</extension>
+</addon>
+
+<addon id="plugin.video.blackarrow18.matrix" name="[COLOR red]black[/COLOR] [COLOR yellow]arrow18[/COLOR]" version="1.0.0+matrix.1" provider-name="Flechanegra">
+<requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.simplejson"/>
+	<import addon="script.module.kodi-six" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+	<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+	<summary lang="en">[COLOR red]Flecha[/COLOR] [COLOR black]Negra[/COLOR] [COLORorange]is an add-on from the K-PT Flechanegra family. ALL LINKS ARE AVAILABLE ON THE INTERNET![/COLOR]</summary>
+	<summary lang="pt">[COLOR red]Flecha[/COLOR] [COLOR black]Negra[/COLOR] [COLORorange]Ã© um addon da familia K-PT Flechanegra.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/COLOR]</summary>
+	<description lang="en">[COLOR red]Flecha[/COLOR] [COLOR black]Negra[/COLOR] [COLORorange]is an add-on from the K-PT Flechanegra family. ALL LINKS ARE AVAILABLE ON THE INTERNET![/COLOR]</description>
+	<description lang="pt">[COLOR red]Flecha[/COLOR] [COLOR black]Negra[/COLOR] [COLORorange]Ã© um addon da familia K-PT Flechanegra.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/COLOR]</description>
+    <disclaimer lang="en">The author is in no way affiliated with Kodi, Team Kodi or the XBMC Foundation. This is a non-profit resource.</disclaimer>
+	<disclaimer lang="pt">O autor nÃ£o Ã© de forma alguma afiliado ao Kodi, Team Kodi ou a XBMC Foundation. Este Ã© um recurso sem fins lucrativos.</disclaimer>
+    <platform>all</platform>
+	<assets>
+       <icon>icon.png</icon>
+       <fanart>fanart.jpg</fanart>
+	   <screenshot>resources/screenshots/1.png</screenshot>
+       <screenshot>resources/screenshots/2.png</screenshot>
+       <screenshot>resources/screenshots/3.png</screenshot>
+    </assets>
+	<news>
+v1.0.0.matrix.1
+- InauguraÃ§Ã£o blackarrow18 em Python 3
+	</news>
+</extension>
+</addon>
+
+<addon id="plugin.video.blackarrow1click.Matrix" name="[COLOR red]Blackarrow[/COLOR][COLORblack] 1Cick[/COLOR]" version="1.0.1+matrix.1" provider-name="Flechanegra">
+<requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.simplejson"/>
+	<import addon="script.module.kodi-six" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+	<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+	<summary lang="en">[COLORorange]Infinity[/COLOR][COLORorange]is an add-on from the K-PT Flechanegra family. ALL LINKS ARE AVAILABLE ON THE INTERNET![/COLOR]</summary>
+	<summary lang="pt">[COLORorange]Infinity[/COLOR] [COLORorange]Ã© um addon da familia K-PT Flechanegra.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/COLOR]</summary>
+	<description lang="en">[COLOR red]Flecha[/COLOR] [COLOR black]Negra[/COLOR] [COLORorange]is an add-on from the K-PT Flechanegra family. ALL LINKS ARE AVAILABLE ON THE INTERNET![/COLOR]</description>
+	<description lang="pt">[COLOR red]Flecha[/COLOR] [COLOR black]Negra[/COLOR] [COLORorange]Ã© um addon da familia K-PT Flechanegra.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/COLOR]</description>
+    <disclaimer lang="en">The author is in no way affiliated with Kodi, Team Kodi or the XBMC Foundation. This is a non-profit resource.</disclaimer>
+	<disclaimer lang="pt">O autor nÃ£o Ã© de forma alguma afiliado ao Kodi, Team Kodi ou a XBMC Foundation. Este Ã© um recurso sem fins lucrativos.</disclaimer>
+    <platform>all</platform>
+	<assets>
+       <icon>icon.png</icon>
+       <fanart>fanart.jpg</fanart>
+	   <screenshot>resources/screenshots/1.jpg</screenshot>
+       <screenshot>resources/screenshots/2.jpg</screenshot>
+       <screenshot>resources/screenshots/3.jpg</screenshot>
+	</assets>
+	<news>
+v1.0.0.matrix.1
+- InauguraÃ§Ã£o Flechanegra em Python 3
+	</news>
+</extension>
+</addon>
+
+<addon id="plugin.video.blackarrowplaylist" name="[COLOR red]Blackarrow[/COLOR][COLOR black]Playlist[/COLOR] [COLORcyan]Matrix[/COLOR]" version="1.0.3+matrix" provider-name="Flechanegra">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.22.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">blackarrowplaylist</summary>
+    <summary lang="en">[COLOR red][B]Blackarrow[/B][/COLOR] [COLOR black][B]playlist[/B][/COLOR] [COLORorange][B]Ã© um addon da familia Flecha Negra Team.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/B][/COLOR]</summary>
+    <description lang="en">[COLOR red][B]Blackarrow[/B][/COLOR] [COLOR black][B]playlist[/B][/COLOR] [COLORorange][B]Ã© um addon da familia Flecha Negra Team.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/B][/COLOR]</description>
+    <language>en de</language>
+    <platform>all</platform>
+      <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.flashbrasil.Matrix" name="[COLOR yellow]Flash[/COLOR] [COLORgreen]Brasil[/COLOR]" version="1.0.0+matrix.1" provider-name="Flechanegra">
+<requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.simplejson"/>
+	<import addon="script.module.kodi-six" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+	<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+	<summary lang="en">[COLOR yellow]Flash[/COLOR] [COLORgreen]Brasil[/COLOR] [COLORorangeis an add-on from the K-PT Flechanegra family. ALL LINKS ARE AVAILABLE ON THE INTERNET![/COLOR]</summary>
+	<summary lang="pt">[COLOR yellow]Flash[/COLOR] [COLORgreen]Brasil[/COLOR] [COLORorangeÃ© um addon da familia K-PT Flechanegra.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/COLOR]</summary>
+	<description lang="en">[COLOR yellow]Flash[/COLOR] [COLORgreen]Brasil[/COLOR] [COLORorangeis an add-on from the K-PT Flechanegra family. ALL LINKS ARE AVAILABLE ON THE INTERNET![/COLOR]</description>
+	<description lang="pt">[COLOR yellow]Flash[/COLOR] [COLORgreen]Brasil[/COLOR] [COLORorangeÃ© um addon da familia K-PT Flechanegra.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/COLOR]</description>
+    <disclaimer lang="en">The author is in no way affiliated with Kodi, Team Kodi or the XBMC Foundation. This is a non-profit resource.</disclaimer>
+	<disclaimer lang="pt">O autor nÃ£o Ã© de forma alguma afiliado ao Kodi, Team Kodi ou a XBMC Foundation. Este Ã© um recurso sem fins lucrativos.</disclaimer>
+    <platform>all</platform>
+	<assets>
+       <icon>icon.png</icon>
+       <fanart>fanart.jpg</fanart>
+	   <screenshot>resources/screenshots/1.jpg</screenshot>
+       <screenshot>resources/screenshots/2.jpg</screenshot>
+       <screenshot>resources/screenshots/3.jpg</screenshot>
+	   </assets>
+	<news>
+v1.0.0.matrix.1
+- InauguraÃ§Ã£o Flechanegra em Python 3
+	</news>
+</extension>
+</addon>
+
+<addon id="plugin.video.flechanegra.Matrix" name="[COLOR red]Flecha[/COLOR] [COLOR black]Negra[/COLOR]" version="1.0.1+matrix.1" provider-name="Flechanegra">
+<requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.simplejson"/>
+	<import addon="script.module.kodi-six" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+	<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+	<summary lang="en">[COLOR red]Flecha[/COLOR] [COLOR black]Negra[/COLOR] [COLORorange][B]is an add-on from the K-PT Flechanegra family. ALL LINKS ARE AVAILABLE ON THE INTERNET![/B][/COLOR]</summary>
+	<summary lang="pt">[COLOR red]Flecha[/COLOR] [COLOR black]Negra[/COLOR] [COLORorange][B]Ã© um addon da familia K-PT Flechanegra.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/B][/COLOR]</summary>
+	<description lang="en">[COLOR red]Flecha[/COLOR] [COLOR black]Negra[/COLOR] [COLORorange][B]is an add-on from the K-PT Flechanegra family. ALL LINKS ARE AVAILABLE ON THE INTERNET![/B][/COLOR]</description>
+	<description lang="pt">[COLOR red]Flecha[/COLOR] [COLOR black]Negra[/COLOR] [COLORorange][B]Ã© um addon da familia K-PT Flechanegra.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/B][/COLOR]</description>
+    <disclaimer lang="en">The author is in no way affiliated with Kodi, Team Kodi or the XBMC Foundation. This is a non-profit resource.</disclaimer>
+	<disclaimer lang="pt">O autor nÃ£o Ã© de forma alguma afiliado ao Kodi, Team Kodi ou a XBMC Foundation. Este Ã© um recurso sem fins lucrativos.</disclaimer>
+    <platform>all</platform>
+	<assets>
+       <icon>icon.png</icon>
+       <fanart>fanart.jpg</fanart>
+    </assets>
+	<news>
+v1.0.0.matrix.1
+- InauguraÃ§Ã£o Flechanegra em Python 3
+	</news>
+</extension>
+</addon>
+
+<addon id="plugin.video.gdrive" version="0.8.66" name="gDrive" provider-name="ddurdle">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video programs</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Watch videos from your Google Drive account</summary>
+		<description>Plays videos from your Google Drive account. Not affiliated with Google.</description>
+		<platform>all</platform>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+	<extension point="xbmc.service" library="service.py" start="login">
+	</extension>
+</addon>
+
+<addon id="plugin.video.infinity.Matrix" name="[COLORorange]Infinity[/COLOR]" version="1.0.1+matrix.1" provider-name="Flechanegra">
+<requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.simplejson"/>
+	<import addon="script.module.kodi-six" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+	<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+	<summary lang="en">[COLORorange]Infinity[/COLOR][COLORorange]is an add-on from the K-PT Flechanegra family. ALL LINKS ARE AVAILABLE ON THE INTERNET![/COLOR]</summary>
+	<summary lang="pt">[COLORorange]Infinity[/COLOR] [COLORorange]Ã© um addon da familia K-PT Flechanegra.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/COLOR]</summary>
+	<description lang="en">[COLOR red]Flecha[/COLOR] [COLOR black]Negra[/COLOR] [COLORorange]is an add-on from the K-PT Flechanegra family. ALL LINKS ARE AVAILABLE ON THE INTERNET![/COLOR]</description>
+	<description lang="pt">[COLOR red]Flecha[/COLOR] [COLOR black]Negra[/COLOR] [COLORorange]Ã© um addon da familia K-PT Flechanegra.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/COLOR]</description>
+    <disclaimer lang="en">The author is in no way affiliated with Kodi, Team Kodi or the XBMC Foundation. This is a non-profit resource.</disclaimer>
+	<disclaimer lang="pt">O autor nÃ£o Ã© de forma alguma afiliado ao Kodi, Team Kodi ou a XBMC Foundation. Este Ã© um recurso sem fins lucrativos.</disclaimer>
+    <platform>all</platform>
+	<assets>
+       <icon>icon.png</icon>
+       <fanart>fanart.jpg</fanart>
+	   <screenshot>resources/screenshots/1.jpg</screenshot>
+       <screenshot>resources/screenshots/2.jpg</screenshot>
+       <screenshot>resources/screenshots/3.jpg</screenshot>
+	   </assets>
+	<news>
+v1.0.0.matrix.1
+- InauguraÃ§Ã£o Flechanegra em Python 3
+	</news>
+</extension>
+</addon>
+
 <addon id="repository.blackarrowmatrix" name="[COLOR red]Black[/COLOR][COLOR black]Arrow[/COLOR]Matrix [COLOR cyan]Repository[/COLOR]" version="1.9.0" provider-name="Flecha Negra">
 
 	<extension point="xbmc.addon.repository" name="[COLOR red]Black[/COLOR][COLOR black]Arrow[/COLOR]Matrix [COLOR cyan]Repository[/COLOR]">
@@ -51,5 +371,58 @@
         </assets>
 	</extension>
 
+</addon>
+
+<addon id="script.blackarrow.kodilimpo" name="[COLORred]Blackarrow[/COLOR] [COLORcyan]kodi[/COLOR]limpo" provider-name="Flechanegra" version="1.9.0">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0" />
+  </requires>
+  <extension library="default.py" point="xbmc.python.pluginsource">
+        <provides>executable</provides>
+  </extension>
+  <extension library="service.py" point="xbmc.service" start="startup">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en_GB">Clean up temporary files in Kodi.</summary>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <description lang="en_GB">Clean up temporary files in Kodi.</description>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="script.speedtester" name="Speed Tester" version="1.1.2+matrix.1" provider-name="Dr0idGuy, dagwieers">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.script" library="resources/lib/addon_entry.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en_GB">Test your Internet bandwidth</summary>
+    <description lang="en_GB">This add-on tests your Internet bandwith and reports both download and upload speeds and latency from within Kodi.
+
+Use this if you are experiencing streaming issues and you suspect your network to be the cause.</description>
+    <disclaimer lang="en_GB">Speed Tester is powered by speedtest.net</disclaimer>
+    <language>en</language>
+    <license>Apache-2.0</license>
+    <email>dag@wieers.com</email>
+    <website>https://kodi.wiki/view/Add-on:Speed_Tester</website>
+    <source>https://github.com/flechanegra/script.speedtester</source>
+    <news>
+    </news>
+    <assets>
+      <icon>resources/media/icon.png</icon>
+      <fanart>resources/media/fanart.jpg</fanart>
+      <screenshot>resources/media/screenshot01.jpg</screenshot>
+      <screenshot>resources/media/screenshot02.jpg</screenshot>
+      <screenshot>resources/media/screenshot03.jpg</screenshot>
+    </assets>
+  </extension>
 </addon>
 </addons>
