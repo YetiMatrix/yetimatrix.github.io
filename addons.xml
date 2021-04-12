@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.program.blackarrowmatrix.wizard" name="[COLOR gold]BlackArrow[/COLOR][COLORcyan]Matrix Wizard[/COLOR]" version="1.9.0" provider-name="L.M. @FlechaNegra">
+<addon id="plugin.program.yetimatrix.wizard" name="[COLOR gold]Yeti[/COLOR][COLORcyan]Matrix Wizard[/COLOR]" version="1.0" provider-name="Yeti Build">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
@@ -1038,21 +1038,21 @@ v1.14.1 (2021-02-25)
   </extension>
 </addon>
 
-<addon id="repository.blackarrowmatrix" name="[COLOR red]Black[/COLOR][COLOR black]Arrow[/COLOR]Matrix [COLOR cyan]Repository[/COLOR]" version="1.9.0" provider-name="Flecha Negra">
+<addon id="repository.yetimatrix" name="[COLOR red]Yeti[/COLOR][COLOR black]Matrix[/COLOR]Matrix [COLOR cyan]Repository[/COLOR]" version="1.0" provider-name="Yeti Build">
 
-	<extension point="xbmc.addon.repository" name="[COLOR red]Black[/COLOR][COLOR black]Arrow[/COLOR]Matrix [COLOR cyan]Repository[/COLOR]">
+	<extension point="xbmc.addon.repository" name="[COLOR red]Yeti[/COLOR][COLOR black][/COLOR]Matrix [COLOR cyan]Repository[/COLOR]">
 
 		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/blackarrowmatrix/blackarrowmatrix.github.io/main/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/blackarrowmatrix/blackarrowmatrix.github.io/main/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/blackarrowmatrix/blackarrowmatrix.github.io/main</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/yetimatrix/yetiwizard.github.io/main/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/yetimatrix/yetiwizard.github.io/main/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/yetimatrix/yetiwizard.github.io/main</datadir>
 
 		</dir>
 
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>repositorio BlackArrowMatrix</summary>
-		<description>repositorio oficial BlackArrowMatrix - Proibido reproducao sem previa autorizacao</description>
+		<summary>Yeti Matrix Repo</summary>
+		<description>This Repository will provide you the addon to install Yeti Build</description>
 		<platform>all</platform>
 
 		<assets>
