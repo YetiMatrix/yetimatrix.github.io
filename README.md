@@ -8,7 +8,7 @@ Instructions to install repo
   <ul>
     <li>On Kodi go to settings, then to file manager</li>
     <li>Scroll down & click "Add Source"</li>
-    <li>Type in this link in the source toolbar <code>https://blackarrowmatrix.github.io</code> (name the repo "YetiMatrix Repo").</li>
+    <li>Type in this link in the source toolbar <code>https://yetimatrix.github.io</code> (name the repo "YetiMatrix Repo").</li>
     <li>Go back to settings home and go into "Addons"</li>
     <li>In Addons, click install from zip file a warning will appear click next. select "YetiMatrix Repo", and it will be installed <a href="repository.yetimatrix.zip">repository.yetimatrix.zip</a>.</li>
     <li>Go back to Addons, select "Install from repo"</li>
